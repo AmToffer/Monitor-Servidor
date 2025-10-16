@@ -50,7 +50,7 @@ O USO DA CPU ESTÁ NORMAL
 ├── monitor.py              # Script principal
 ├── config.env              # Arquivo de configuração com limites
 ├── logs/
-│   └── log.txt             # (em branco no início, reservado para logs futuros)
+│   └── status.log             # (em branco no início, reservado para logs futuros)
 └── README.md               # Documentação do projeto
 ```
 
