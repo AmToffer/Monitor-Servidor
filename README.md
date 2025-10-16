@@ -15,7 +15,7 @@ Ideal para uso em scripts automatizados, servidores locais ou sistemas embarcado
 
 - Estrutura simples e clara, ideal para expansão futura.
 
- -Gera (ou prepara) o arquivo de log dos resultados.
+ - Gera (ou prepara) o arquivo de log dos resultados.
 
 ## Dependências
 
@@ -44,7 +44,8 @@ CPU: 45%
 O USO DA CPU ESTÁ NORMAL
 
 ## Estrutura de Pastas
-```📁 monitor-servidor
+```
+📁 monitor-servidor
 │
 ├── monitor.py              # Script principal
 ├── config.env              # Arquivo de configuração com limites
